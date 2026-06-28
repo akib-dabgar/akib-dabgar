@@ -85,6 +85,8 @@
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
 </p>
 
+---
+
 ### 📊 Architectural Domain Experience
 
 <table>
